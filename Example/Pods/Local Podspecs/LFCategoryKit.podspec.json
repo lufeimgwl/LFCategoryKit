@@ -1,0 +1,22 @@
+{
+  "name": "LFCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LFCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/750967344@qq.com/LFCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "750967344@qq.com": "750967344@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/750967344@qq.com/LFCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LFCategoryKit/Classes/**/*"
+}
